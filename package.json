@@ -14,7 +14,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "vercel": "^28.4.4"
-  }
+  },
   "devDependencies": {
     "vercel": "^28.16.12"
   }
